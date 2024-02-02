@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thilanka Wijesingha</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **MERN, Next.js, Flutter, React Native, Python**
+- 🌱 I’m currently learning **MERN, Next.js, React Native, Python, Laravel**
 
 - 💬 Ask me about **Web, Android apps**
 
