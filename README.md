@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.NET , Django & DevOps**
 
-- 💬 Ask me about **React and Node.js**
+- 💬 Ask me about **Web & Android apps**
 
 - 📫 How to reach me **thilankawijesingham@gmail.com**
 
