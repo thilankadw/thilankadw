@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thilanka</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **.NET , Django & DevOps**
+- 🌱 I’m currently learning **Machine Learning , Cloud Computing**
 
-- 💬 Ask me about **Web & Android apps**
+- 💬 Ask me about **Web & Mobile apps**
 
 - 📫 How to reach me **thilankawijesingham@gmail.com**
 
