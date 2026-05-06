@@ -92,9 +92,9 @@ Cloud delivery and engineering workflows
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- ## Engineering Interests
 
@@ -119,17 +119,17 @@ Designing scalable systems for AI, data, and intelligent applications
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
-<div align="center">
+<!-- <div align="center">
 
 ## GitHub Statistics
 
-<br/>
+<br/> -->
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThilankaWijesingha&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThilankaWijesingha&show_icons=true&theme=tokyonight&hide_border=true"/>
 &nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilankaWijesingha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilankaWijesingha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/> -->
 
-</div>
+<!-- </div> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
