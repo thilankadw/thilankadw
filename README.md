@@ -42,10 +42,33 @@ class DeveloperProfile:
 
 ## Technologies
 
-### Web and Mobile
-Frontend and client experience
+### AI and ML
+Model workflows, orchestration, and observability
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/CrewAI-4B5563?style=for-the-badge&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Langfuse-F97316?style=for-the-badge&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="48"/>
+
+### Data Engineering
+Distributed and batch/stream pipelines
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="48"/>
+<img src="https://img.shields.io/badge/YARN-2C8EBB?style=for-the-badge&logo=apachehadoop&logoColor=white" height="48"/>
+<br/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48"/>
+
+### Cloud and DevOps
+Cloud delivery and engineering workflows
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git&theme=dark" />
 
 ### Backend and APIs
 Service architecture and app backends
@@ -62,33 +85,10 @@ Operational and vector data platforms
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" height="48"/>
 
-### Data Engineering
-Distributed and batch/stream pipelines
+### Web and Mobile
+Frontend and client experience
 
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="48"/>
-<img src="https://img.shields.io/badge/YARN-2C8EBB?style=for-the-badge&logo=apachehadoop&logoColor=white" height="48"/>
-<br/>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48"/>
-
-### AI and ML
-Model workflows, orchestration, and observability
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/CrewAI-4B5563?style=for-the-badge&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Langfuse-F97316?style=for-the-badge&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="48"/>
-
-### Cloud and DevOps
-Cloud delivery and engineering workflows
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,flutter&theme=dark" />
 
 </div>
 
